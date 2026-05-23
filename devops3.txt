@@ -1,2 +1,7 @@
+asdasd<<<<<<< HEAD
 asdasdasdasdasd
 asdasdasdasdasdads
+=======
+aasdasdads
+abc
+>>>>>>> dev
